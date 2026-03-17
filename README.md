@@ -9,4 +9,4 @@ Authors: Monica Reyes-Lopez, Poornima Tushir, Eden Ramos, Spoorthi Munnangi, Tan
 ## Description
 This project is meant for us to understand an Airbnb market. We decided to narrow in on Dallas, TX. 
 
-this is another edit test
+Data is gathered from https://insideairbnb.com/get-the-data/ for 12 months before November 23, 2025. 
